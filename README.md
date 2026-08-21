@@ -99,10 +99,10 @@ mindset: "Solving real-world problems through practical, production-minded engin
 ## 🚀 Featured Projects
 
 <details>
-<summary><strong>🎯 AI-Powered Placement Intelligence Platform</strong></summary>
+<summary><strong>🎯DocuThinker-An AI-powered document analysis app</strong></summary>
 <br/>
 
-A full-stack MERN platform that analyzes resumes, job descriptions, and past application data to predict application success probability and identify skill gaps — helping students apply strategically instead of randomly. Includes a role-based application and referral tracking system with analytics dashboards to monitor placement funnel conversion and interview outcomes.
+This is a full-stack application that integrates an AI-powered document processing backend, blue/green & canary deployment on an AWS infrastructure, and a React-based frontend. The app allows users to upload documents for summarization, generate key insights, chat with an AI, and do even more with the document's content.
 
 | Aspect | Details |
 |---|---|
@@ -116,10 +116,10 @@ A full-stack MERN platform that analyzes resumes, job descriptions, and past app
 </details>
 
 <details>
-<summary><strong>⏱️ Real-Time Queue & Crowd Prediction System</strong></summary>
+<summary><strong>⏱️ CodeX - Code Collaboration Platform</strong></summary>
 <br/>
 
-A real-time queue and crowd prediction system built on the MERN stack with WebSockets, estimating wait times and providing live queue updates based on historical and current data. Includes an admin analytics dashboard visualizing peak hours and crowd density for better resource planning.
+CodeX is an online code collaboration platform that enables real-time coding, cursor sharing, live UI preview, and video communication with integrated Git support—no sign-up required.
 
 | Aspect | Details |
 |---|---|
