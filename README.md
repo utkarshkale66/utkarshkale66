@@ -149,43 +149,6 @@ Contributed to end-to-end development of full-stack web applications using the M
 
 `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `REST APIs` `Git`
 
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| *Add achievement* | *Add details* |
-
-</div>
-
-> *No achievements are currently listed on the resume — populate this table as you earn them.*
-
----
-
-## 📜 Certifications
-
-> *No certifications are currently listed on the resume. Once earned, group badges here, e.g.:*
-
-![AWS](https://img.shields.io/badge/AWS-Certification%20Name-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![NPTEL](https://img.shields.io/badge/NPTEL-Course%20Name-990000?style=flat-square)
-![Cisco](https://img.shields.io/badge/Cisco-Certification%20Name-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-
----
-
-## 💻 Coding Profiles
-
-> *Add your actual profile links below — placeholders shown for structure only.*
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](#)
-[![GeeksforGeeks](https://img.shields.io/badge/GFG-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](#)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](#)
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
