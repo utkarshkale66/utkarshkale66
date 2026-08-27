@@ -192,7 +192,7 @@ Contributed to end-to-end development of full-stack web applications using the M
 
 </div>
 
-> *Requires the snake-generation GitHub Action set up on your profile repo to render.*
+> ![snake gif](https://github.com/utkarshkale66/utkarshkale66/blob/output/github-snake-dark.svg)
 
 ---
 
