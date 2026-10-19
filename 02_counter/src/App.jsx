@@ -5,20 +5,31 @@ import viteLogo from './assets/vite.svg'
 import './App.css'
 
 function App() {
-  let counter = 15
+  let [counter, setCounter] = useState(15) 
+
   const addValue = () => {
     console.log("Clicked", counter)
-    counter = counter + 1;
+    setCounter(counter + 1)
   }
+
+  const removeValue = () => {
+    setCounter(counter - 1)
+    
+  }
+
+ const isDisabled = counter <= 0 
+ const wasDisabled = counter > 19
+
 
   return (
     <>
     <h1>Hello World</h1>
     <h2>Counter value: {counter} </h2>
 
-    <button onClick={addValue}> Submit</button>
+    <button onClick={addValue} disabled= {wasDisabled} > Add {counter}</button>
+    <button onClick={removeValue} disabled = {isDisabled} >Remove {counter} </button>
+    
     </>
   )
 }
-
 export default App
